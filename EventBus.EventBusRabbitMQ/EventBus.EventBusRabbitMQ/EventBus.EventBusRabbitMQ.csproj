@@ -1,14 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
-    <Product>LilaSoft.Patterns.EventBus.EventBusRabbitMQ</Product>
-    <PackageId>EventBusRabbitMQ</PackageId>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>LilaSoft.Patterns.EventBus.EventBusRabbitMQ</PackageId>
     <Authors>Johnny Behague</Authors>
     <Company>LilaSoft</Company>
+    <Product>LilaSoft.Patterns.EventBus.EventBusRabbitMQ</Product>
     <Description>Le projet LilaSoft.Patterns.EventBus.EventBusRabbitMQ est un fork du projet du repository eShopContainers afin de faciliter mes futurs développements. Comme tous mes forks issus de ce projet, ils sont issus à changement suivant l'évolution de mes besoins.</Description>
-    <RepositoryType>Github</RepositoryType>
     <PackageProjectUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.EventBus.EventBusRabbitMQ</PackageProjectUrl>
+    <RepositoryType>Github</RepositoryType>
     <PackageLicenseUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.EventBus.EventBusRabbitMQ/blob/master/LICENSE.md</PackageLicenseUrl>
   </PropertyGroup>
 

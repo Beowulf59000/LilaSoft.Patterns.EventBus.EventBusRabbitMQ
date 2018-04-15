@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.EventBusRabbitMQ", "EventBus.EventBusRabbitMQ\EventBus.EventBusRabbitMQ.csproj", "{79E3034A-92E2-4326-B3A4-2FC83B1A36ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.EventBusRabbitMQ", "EventBus.EventBusRabbitMQ\EventBus.EventBusRabbitMQ.csproj", "{F57EE582-7B1E-4025-8F5E-3E6B87AF738D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{79E3034A-92E2-4326-B3A4-2FC83B1A36ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79E3034A-92E2-4326-B3A4-2FC83B1A36ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79E3034A-92E2-4326-B3A4-2FC83B1A36ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79E3034A-92E2-4326-B3A4-2FC83B1A36ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57EE582-7B1E-4025-8F5E-3E6B87AF738D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57EE582-7B1E-4025-8F5E-3E6B87AF738D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57EE582-7B1E-4025-8F5E-3E6B87AF738D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57EE582-7B1E-4025-8F5E-3E6B87AF738D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
